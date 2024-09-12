@@ -97,10 +97,6 @@ Please ensure your code adheres to the existing style and includes appropriate t
 
 To ensure the correctness of the quad checker, consider adding test cases for various input scenarios. You can use Go's built-in testing framework to create and run tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 Zangief
 ig := Mehdim_dev
