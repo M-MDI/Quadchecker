@@ -101,4 +101,4 @@ To ensure the correctness of the quad checker, consider adding test cases for va
 Zangief
 ig := Mehdim_dev
 Discordid := 720655054834630676
-Project Link: [https://github.com/yourusername/quad-checker](https://github.com/yourusername/quad-checker)
+Project Link: [https://github.com/yourusername/quad-checker](https://github.com/M-MDI/Quadchecker)
